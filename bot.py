@@ -1,0 +1,1 @@
+print("AlphaGrow is starting...")
