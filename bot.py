@@ -172,4 +172,5 @@ async def button_handler(
     user = get_user(user_id)
 
     if not user:
-        await query.edit
+                await query.edit_message_text("کاربر پیدا نشد.")
+        return
