@@ -1,1 +1,1 @@
-print("AlphaGrow is starting...")
+print("🚀 AlphaGrow is starting...")
